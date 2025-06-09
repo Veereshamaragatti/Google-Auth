@@ -31,7 +31,7 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/google-auth-supabase.git
+git clone https://github.com/Veereshamaragatti/Google-Auth.git
 cd google-auth-supabase
 ```
 
